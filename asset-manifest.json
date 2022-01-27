@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sidebar-Menu/static/css/main.4fe24d40.css",
+    "main.js": "/Sidebar-Menu/static/js/main.296e82c9.js",
+    "index.html": "/Sidebar-Menu/index.html",
+    "main.4fe24d40.css.map": "/Sidebar-Menu/static/css/main.4fe24d40.css.map",
+    "main.296e82c9.js.map": "/Sidebar-Menu/static/js/main.296e82c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fe24d40.css",
+    "static/js/main.296e82c9.js"
+  ]
+}
